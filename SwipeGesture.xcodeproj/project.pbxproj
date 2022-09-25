@@ -14,6 +14,7 @@
 		479DDC0228E0712500D05262 /* SwipeGesture.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 479DDC0028E0712500D05262 /* SwipeGesture.xcdatamodeld */; };
 		479DDC0428E0712600D05262 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 479DDC0328E0712600D05262 /* Assets.xcassets */; };
 		479DDC0728E0712600D05262 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 479DDC0528E0712600D05262 /* LaunchScreen.storyboard */; };
+		479DDC0F28E0721500D05262 /* images in Resources */ = {isa = PBXBuildFile; fileRef = 479DDC0E28E0721500D05262 /* images */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		479DDC0328E0712600D05262 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		479DDC0628E0712600D05262 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		479DDC0828E0712600D05262 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		479DDC0E28E0721500D05262 /* images */ = {isa = PBXFileReference; lastKnownFileType = folder; path = images; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 		479DDBF628E0712500D05262 /* SwipeGesture */ = {
 			isa = PBXGroup;
 			children = (
+				479DDC0E28E0721500D05262 /* images */,
 				479DDBF728E0712500D05262 /* AppDelegate.swift */,
 				479DDBF928E0712500D05262 /* SceneDelegate.swift */,
 				479DDBFB28E0712500D05262 /* ViewController.swift */,
@@ -128,6 +131,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				479DDC0F28E0721500D05262 /* images in Resources */,
 				479DDC0728E0712600D05262 /* LaunchScreen.storyboard in Resources */,
 				479DDC0428E0712600D05262 /* Assets.xcassets in Resources */,
 				479DDBFF28E0712500D05262 /* Main.storyboard in Resources */,
